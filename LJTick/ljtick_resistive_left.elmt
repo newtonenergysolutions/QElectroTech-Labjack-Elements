@@ -1,0 +1,42 @@
+<definition width="150" type="element" link_type="simple" hotspot_x="60" height="60" hotspot_y="30" version="0.80">
+    <uuid uuid="{d9584778-f0ac-4c10-9726-14ea3e647f54}"/>
+    <names>
+        <name lang="en">LJTick-Resistive-Left</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-17" y="-1" text="LJTick" rotation="0" color="#000000"/>
+        <rect width="34" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="47" y="14" height="2" antialias="false"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="-38" y="0.05" text="NA" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="21" y="19.3" text="VS" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="20" y="-3.7" text="OUTA" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="20" y="9.3" text="GND" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="20" y="-14.7" text="OUTB" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="-17" y="9" text="Resistive" rotation="0" color="#000000"/>
+        <rect width="34" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="47" y="-6" height="2" antialias="false"/>
+        <rect width="34" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="47" y="4" height="2" antialias="false"/>
+        <rect width="8" rx="1" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" x="-50" y="-18.95" height="38" antialias="false"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="-38" y="-9.95" text="INB" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="-38" y="10.05" text="GND" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="-38" y="19.05" text="VREF" rotation="0" color="#000000"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" x="-48.5" y="-16.95" antialias="true"/>
+        <line x2="-47.5" end2="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-45.5" y2="-13.95" y1="-15.95" end1="none" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" x="-48.5" y="3.05" antialias="true"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" x="-48.5" y="-6.95" antialias="true"/>
+        <line x2="-47.5" end2="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-45.5" y2="-3.95" y1="-5.95" end1="none" antialias="false"/>
+        <line x2="-47.5" end2="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-45.5" y2="6.05" y1="4.05" end1="none" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" x="-48.5" y="13.05" antialias="true"/>
+        <line x2="-47.5" end2="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-45.5" y2="16.05" y1="14.05" end1="none" antialias="false"/>
+        <rect width="100" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-53" y="-24.7" height="50" antialias="false"/>
+        <rect width="34" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="47" y="-16" height="2" antialias="false"/>
+        <terminal orientation="e" name="" uuid="{9c2612df-cc54-4cb0-9136-caae35ed3804}" x="85" y="15"/>
+        <terminal orientation="e" name="" uuid="{2c471157-b5ca-4412-88cf-7c74d8793e47}" x="85" y="5"/>
+        <terminal orientation="w" name="" uuid="{bbaa55c3-5633-4607-8525-6934c7b02ea0}" x="-54.5" y="5.05"/>
+        <terminal orientation="e" name="" uuid="{5fb7cca6-049d-437f-a064-637909f7ce19}" x="85" y="-15"/>
+        <terminal orientation="w" name="" uuid="{27eaa53a-f84a-4979-b860-6014dab2c312}" x="-54.5" y="-4.95"/>
+        <terminal orientation="e" name="" uuid="{4af1a07f-edc9-43a7-94be-705e692350e2}" x="85" y="-5"/>
+        <terminal orientation="w" name="" uuid="{cccfc390-9d83-4dbe-b904-cdf02489929a}" x="-54.5" y="15.05"/>
+        <terminal orientation="w" name="" uuid="{56fd5997-8e2c-4d97-84b5-473afe100edc}" x="-54.5" y="-14.95"/>
+    </description>
+</definition>

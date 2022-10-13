@@ -1,0 +1,51 @@
+<definition width="180" type="element" link_type="simple" hotspot_x="4" height="60" hotspot_y="31" version="0.80">
+    <uuid uuid="{cc25272a-d356-4769-90c7-1800d9c11714}"/>
+    <names>
+        <name lang="en">LJTick-CurrentShunt-Left</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="50" y="-14" text="LJTick" rotation="0" color="#000000"/>
+        <rect width="34" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="132" y="14" height="2" antialias="false"/>
+        <rect width="8" rx="1" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" x="53" y="-9.25" height="18" antialias="false"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="21" y="-0.25" text="INB-" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="65" y="8" text="VS" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="106" y="19" text="VS" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="105" y="-4" text="OUTA" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="105" y="9" text="GND" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="105" y="-15" text="OUTB" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="44" y="22" text="CurrentShunt" rotation="0" color="#000000"/>
+        <rect width="34" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="132" y="-6" height="2" antialias="false"/>
+        <rect width="34" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="132" y="4" height="2" antialias="false"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="64" y="-2" text="SGND" rotation="0" color="#000000"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" x="54.5" y="-7.25" antialias="true"/>
+        <rect width="8" rx="1" ry="0" style="line-style:normal;line-weight:normal;filling:black;color:black" x="5" y="-19.25" height="38" antialias="false"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="21" y="-10.25" text="INB+" rotation="0" color="#000000"/>
+        <line x2="55.5" end2="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="57.5" y2="-4.25" y1="-6.25" end1="none" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" x="54.5" y="2.75" antialias="true"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="21" y="9.75" text="INA+" rotation="0" color="#000000"/>
+        <text font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="21" y="18.75" text="INA-" rotation="0" color="#000000"/>
+        <line x2="55.5" end2="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="57.5" y2="5.75" y1="3.75" end1="none" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" x="6.5" y="-17.25" antialias="true"/>
+        <line x2="7.5" end2="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="9.5" y2="-14.25" y1="-16.25" end1="none" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" x="6.5" y="2.75" antialias="true"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" x="6.5" y="-7.25" antialias="true"/>
+        <line x2="7.5" end2="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="9.5" y2="-4.25" y1="-6.25" end1="none" antialias="false"/>
+        <line x2="7.5" end2="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="9.5" y2="5.75" y1="3.75" end1="none" antialias="false"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" x="6.5" y="12.75" antialias="true"/>
+        <line x2="7.5" end2="none" length2="1.5" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="9.5" y2="15.75" y1="13.75" end1="none" antialias="false"/>
+        <rect width="132" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" y="-25" height="50" antialias="false"/>
+        <rect width="34" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="132" y="-16" height="2" antialias="false"/>
+        <terminal orientation="w" name="" uuid="{d32dcd9b-2fcb-4db1-9ec5-96a46100434e}" x="1.5" y="14.75"/>
+        <terminal orientation="w" name="" uuid="{7c090d68-e901-4ed7-b0ac-20a5a8eb2d83}" x="49.5" y="-5.25"/>
+        <terminal orientation="e" name="" uuid="{36f47119-3b1d-4d9c-938e-11dbb7e72a83}" x="170" y="5"/>
+        <terminal orientation="w" name="" uuid="{266388d8-10ac-4ced-9316-36511c94f6e5}" x="1.5" y="-5.25"/>
+        <terminal orientation="e" name="" uuid="{196aee8c-0876-4c85-8df3-a54329afab46}" x="170" y="-15"/>
+        <terminal orientation="w" name="" uuid="{44ebd559-06fe-4e69-8929-b20c0ef9115e}" x="1.5" y="-15.25"/>
+        <terminal orientation="e" name="" uuid="{07c79b79-d1b3-40b9-856e-30dc7087b4c3}" x="170" y="-5"/>
+        <terminal orientation="e" name="" uuid="{b81267dc-a379-4e50-accf-1949372b9c1e}" x="170" y="15"/>
+        <terminal orientation="w" name="" uuid="{60c652a2-f3bf-423e-b40b-56dc0f35d4ec}" x="49.5" y="4.75"/>
+        <terminal orientation="w" name="" uuid="{65b094b2-62c0-4cb6-a2cf-39be09dcbe47}" x="1.5" y="4.75"/>
+    </description>
+</definition>

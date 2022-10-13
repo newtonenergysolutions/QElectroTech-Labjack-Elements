@@ -1,0 +1,45 @@
+<definition version="0.80" hotspot_x="60" hotspot_y="29" height="60" link_type="simple" width="150" type="element">
+    <uuid uuid="{fb9d3c0e-eb7d-454e-bce9-0c3e51f88254}"/>
+    <names>
+        <name lang="en">LJTick-RelayDriver-Left</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" y="-11" x="-14" text="LJTick"/>
+        <rect height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="15" rx="0" width="34" ry="0" x="47"/>
+        <text color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="0.05" x="-38" text="RA"/>
+        <text color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="18.3" x="24" text="VS"/>
+        <text color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="-0.7" x="24" text="INA"/>
+        <text color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="10" x="24" text="GND"/>
+        <text color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="-9.7" x="24" text="INB"/>
+        <text color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="24" x="-23" text="RelayDriver"/>
+        <rect height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-5" rx="0" width="34" ry="0" x="47"/>
+        <rect height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="5" rx="0" width="34" ry="0" x="47"/>
+        <rect height="38" style="line-style:normal;line-weight:normal;filling:black;color:black" antialias="false" y="-18.95" rx="1" width="8" ry="0" x="-50"/>
+        <text color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="-9.95" x="-38" text="RB"/>
+        <text color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="10.05" x="-38" text="GNDR"/>
+        <text color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" y="19.05" x="-38" text="VR"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="true" y="-16.95" x="-48.5"/>
+        <line end1="none" x1="-45.5" y1="-15.95" length1="1.5" y2="-13.95" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" antialias="false" x2="-47.5" length2="1.5"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="true" y="3.05" x="-48.5"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="true" y="-6.95" x="-48.5"/>
+        <line end1="none" x1="-45.5" y1="-5.95" length1="1.5" y2="-3.95" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" antialias="false" x2="-47.5" length2="1.5"/>
+        <line end1="none" x1="-45.5" y1="4.05" length1="1.5" y2="6.05" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" antialias="false" x2="-47.5" length2="1.5"/>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:white;color:white" antialias="true" y="13.05" x="-48.5"/>
+        <line end1="none" x1="-45.5" y1="14.05" length1="1.5" y2="16.05" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" antialias="false" x2="-47.5" length2="1.5"/>
+        <rect height="50" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-24.7" rx="0" width="100" ry="0" x="-53"/>
+        <rect height="2" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-16" rx="0" width="34" ry="0" x="47"/>
+        <line end1="none" x1="-12" y1="7" length1="1.5" y2="7" style="line-style:normal;line-weight:normal;filling:none;color:black" end2="none" antialias="false" x2="20" length2="1.5"/>
+        <rect height="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="5" rx="0" width="16" ry="0" x="-5"/>
+        <text color="#000000" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" y="4" x="-1" text="10Ω"/>
+        <terminal orientation="e" y="6" x="85" uuid="{2c471157-b5ca-4412-88cf-7c74d8793e47}" name=""/>
+        <terminal orientation="w" y="-4.95" x="-54.5" uuid="{27eaa53a-f84a-4979-b860-6014dab2c312}" name=""/>
+        <terminal orientation="e" y="-15" x="85" uuid="{5fb7cca6-049d-437f-a064-637909f7ce19}" name=""/>
+        <terminal orientation="w" y="-14.95" x="-54.5" uuid="{56fd5997-8e2c-4d97-84b5-473afe100edc}" name=""/>
+        <terminal orientation="e" y="16" x="85" uuid="{9c2612df-cc54-4cb0-9136-caae35ed3804}" name=""/>
+        <terminal orientation="w" y="15.05" x="-54.5" uuid="{cccfc390-9d83-4dbe-b904-cdf02489929a}" name=""/>
+        <terminal orientation="e" y="-4" x="85" uuid="{4af1a07f-edc9-43a7-94be-705e692350e2}" name=""/>
+        <terminal orientation="w" y="5.05" x="-54.5" uuid="{bbaa55c3-5633-4607-8525-6934c7b02ea0}" name=""/>
+    </description>
+</definition>
